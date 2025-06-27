@@ -1,4 +1,4 @@
-package com.example.bloodtypeidentifier.Controller;
+package com.example.bloodtypeidentifier.controller;
 
 import com.example.bloodtypeidentifier.entity.BloodTestResult;
 import com.example.bloodtypeidentifier.service.BloodTypeService;
